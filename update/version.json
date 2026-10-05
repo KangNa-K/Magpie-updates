@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.10.58",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612675247",
-  "sha256": "b0838c46e174d4df43a0bb60c127f1bcad42ca07a4594bd266fcec29bf3f965a",
-  "size": 26521451,
-  "notes": "修复模型支持添加按钮的深色主题图标颜色，并调整检查更新按钮位置。"
+  "versionCode": 31,
+  "versionName": "0.10.59",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612797138",
+  "sha256": "681b337683459df460b2f8b2d0ddaaa85f83731cf8b748b85505bf5c2b52fc08",
+  "size": 26521887,
+  "notes": "优化侧边栏设置页：主题改为单行菜单，模糊效果归入外观，统一分组间距；检查更新与当前版本同行。"
 }
