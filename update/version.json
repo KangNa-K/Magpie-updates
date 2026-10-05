@@ -1,5 +1,8 @@
 {
   "versionCode": 29,
   "versionName": "0.10.57",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612609139",
+  "sha256": "53fba6263ca48af6d347273e9fbb811f5a7e73a2ef71db6628126fef3601c2b7",
+  "size": 26521451,
   "notes": "修复深色主题下应用更新区域文字颜色显示异常。"
 }
