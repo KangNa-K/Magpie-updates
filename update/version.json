@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "0.10.64",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613527646",
-  "sha256": "4f0f481bf9fe8f9e9e170a2614ea9ea95819d07874785719476ed2cb0fc9daf8",
-  "size": 26577636,
-  "notes": "全面重构模糊透明效果，统一列表、详情浮层和弹窗的玻璃材质，移除旧抓帧与三星私有反射。关闭效果、视频页面或无背景源时使用不透明材质。真机视觉效果与滚动性能尚未完成验证。"
+  "versionCode": 37,
+  "versionName": "0.10.65",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613590705",
+  "sha256": "04784a4e65ea222533ef4ab3ff94b70caeaa384a7bb590cd6ccb70bdf27aae8f",
+  "size": 26594020,
+  "notes": "统一筛选弹窗圆角复选框，优化注释筛选布局，调整缩放滑块边缘绘制。排序菜单合并为五个维度，再次点击当前项可反转正序与倒序。真机视觉效果及升级安装尚未完成验证。"
 }
