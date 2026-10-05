@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.10.65",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613590705",
-  "sha256": "04784a4e65ea222533ef4ab3ff94b70caeaa384a7bb590cd6ccb70bdf27aae8f",
-  "size": 26594020,
-  "notes": "统一筛选弹窗圆角复选框，优化注释筛选布局，调整缩放滑块边缘绘制。排序菜单合并为五个维度，再次点击当前项可反转正序与倒序。真机视觉效果及升级安装尚未完成验证。"
+  "versionCode": 38,
+  "versionName": "0.10.66",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613662181",
+  "sha256": "89ca6b783790b6876a693e2565bad1d33a6743ef48cfb0fa062a756384e4643e",
+  "size": 26643208,
+  "notes": "统一全局动效并适配减少动效设置，修复菜单和对话框退出动画，优化侧栏跟手与预测性返回。补齐图片展开收回、下拉关闭和设置及建库过渡。Release 构建、必要 Lint 和完整 JVM 测试通过；跨版本真机、帧率及真实升级安装尚未完成验证。"
 }
