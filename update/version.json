@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "0.10.60",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612891304",
-  "sha256": "efad8e3f1235e0b9b792612606d4a9c46a9605756d4a61938835678f753ad579",
+  "versionCode": 33,
+  "versionName": "0.10.61",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612930266",
+  "sha256": "35736e98e00e08219923c663f696caefc35752ed7f8d650aeeaf32f536b7c568",
   "size": 26521883,
-  "notes": "更新提醒弹窗统一为项目的磨砂底部样式，适配深浅色主题；采用等宽双按钮，保留下载进度、取消下载和继续安装。"
+  "notes": "主题选择菜单改用应用统一的磨砂样式，调整宽度避免选项换行，并移除当前主题旁的下拉箭头。"
 }
