@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "0.10.63",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613466578",
-  "sha256": "58d95116427591a736efc88708eed6ba03306f70636f12e9d005dcef6d9d24f9",
-  "size": 26521883,
-  "notes": "更新提醒弹窗统一在图片区内居中，与其他弹窗保持相同底部间距；离开浏览页后清除旧定位。"
+  "versionCode": 36,
+  "versionName": "0.10.64",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613527646",
+  "sha256": "4f0f481bf9fe8f9e9e170a2614ea9ea95819d07874785719476ed2cb0fc9daf8",
+  "size": 26577636,
+  "notes": "全面重构模糊透明效果，统一列表、详情浮层和弹窗的玻璃材质，移除旧抓帧与三星私有反射。关闭效果、视频页面或无背景源时使用不透明材质。真机视觉效果与滚动性能尚未完成验证。"
 }
