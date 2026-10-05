@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.10.57",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612609139",
-  "sha256": "53fba6263ca48af6d347273e9fbb811f5a7e73a2ef71db6628126fef3601c2b7",
+  "versionCode": 30,
+  "versionName": "0.10.58",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612675247",
+  "sha256": "b0838c46e174d4df43a0bb60c127f1bcad42ca07a4594bd266fcec29bf3f965a",
   "size": 26521451,
-  "notes": "修复深色主题下应用更新区域文字颜色显示异常。"
+  "notes": "修复模型支持添加按钮的深色主题图标颜色，并调整检查更新按钮位置。"
 }
