@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "0.10.67",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613741489",
-  "sha256": "ee37650b397d6ec4ea1d707e7ce32d4b5ac47f55a493c3220767c54b8f0a9513",
+  "versionCode": 40,
+  "versionName": "0.10.68",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613888620",
+  "sha256": "f716a438a777b8b4314e187c1576e1c1b48036ce71612a78e0a2fac642328391",
   "size": 26643208,
-  "notes": "优化侧栏动画和网格列数计算，减少缩略图重排及已加载图片的无效占位动画，调整详情页画布边缘和毛玻璃背景作用域。完整 JVM 测试、Release 构建和必要 Lint 通过，签名与上一正式版一致；设备性能测试和真实升级安装未执行。"
+  "notes": "基于当前工作区整体发布，延续侧栏动画、网格列数计算、图片占位动画及详情页毛玻璃背景优化。完整 JVM 测试、Release 构建和必要 Lint 通过，签名与上一正式版一致；设备性能测试和真实升级安装未执行。"
 }
