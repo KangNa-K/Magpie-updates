@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.10.62",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612974482",
-  "sha256": "873de0da57ceb155871cbaec5f8871224b95bb08c0ff84ee109d8305ee92dd86",
-  "size": 26521887,
-  "notes": "主题菜单移除选中勾选图标，仅以加粗文字表示当前主题，所有选项保持左对齐。"
+  "versionCode": 35,
+  "versionName": "0.10.63",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613466578",
+  "sha256": "58d95116427591a736efc88708eed6ba03306f70636f12e9d005dcef6d9d24f9",
+  "size": 26521883,
+  "notes": "更新提醒弹窗统一在图片区内居中，与其他弹窗保持相同底部间距；离开浏览页后清除旧定位。"
 }
