@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "0.10.66",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613662181",
-  "sha256": "89ca6b783790b6876a693e2565bad1d33a6743ef48cfb0fa062a756384e4643e",
+  "versionCode": 39,
+  "versionName": "0.10.67",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613741489",
+  "sha256": "ee37650b397d6ec4ea1d707e7ce32d4b5ac47f55a493c3220767c54b8f0a9513",
   "size": 26643208,
-  "notes": "统一全局动效并适配减少动效设置，修复菜单和对话框退出动画，优化侧栏跟手与预测性返回。补齐图片展开收回、下拉关闭和设置及建库过渡。Release 构建、必要 Lint 和完整 JVM 测试通过；跨版本真机、帧率及真实升级安装尚未完成验证。"
+  "notes": "优化侧栏动画和网格列数计算，减少缩略图重排及已加载图片的无效占位动画，调整详情页画布边缘和毛玻璃背景作用域。完整 JVM 测试、Release 构建和必要 Lint 通过，签名与上一正式版一致；设备性能测试和真实升级安装未执行。"
 }
