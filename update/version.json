@@ -1,8 +1,5 @@
 {
-  "versionCode": 28,
-  "versionName": "0.10.56",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/612429781",
-  "sha256": "8f2b0773e966bbc0df25b993f774d19e01fbbe2a718b7577027a1ed756b33fa5",
-  "size": 26505067,
-  "notes": "新增应用内更新提醒、下载校验与安装入口；改进资料库操作和稳定性。"
+  "versionCode": 29,
+  "versionName": "0.10.57",
+  "notes": "修复深色主题下应用更新区域文字颜色显示异常。"
 }
