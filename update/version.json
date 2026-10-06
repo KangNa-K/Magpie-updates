@@ -1,8 +1,8 @@
 {
-  "versionCode": 44,
-  "versionName": "0.10.72",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/614227052",
-  "sha256": "83a841d02f5e12ab4193e3a05eeb516d3bfb063e7d6d917d6a58e2e0f3649809",
+  "versionCode": 45,
+  "versionName": "0.10.73",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/614501473",
+  "sha256": "a3292f841e01bed040bff474ebc0773746309b32dc86055d1cc2378f9bc7e1b4",
   "size": 26643208,
-  "notes": "修正详情侧栏毛玻璃的背景取样，按组件实际位置显示背景；优化图片缩放、平移和切页时的毛玻璃取样。"
+  "notes": "修复侧栏收起和展开时的卡顿，减少动画期间的重复测量与整页重组；修复右上角更多按钮和底部搜索栏首次显示时毛玻璃未及时生效的问题；优化图片缩放、平移和切页时的毛玻璃取样。"
 }
