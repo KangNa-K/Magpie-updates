@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "0.10.69",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613936625",
-  "sha256": "b6812757d0d4e7a1e3f3482a8ad56e58616179937aa960adcdffc6ce1f55c1d1",
+  "versionCode": 42,
+  "versionName": "0.10.70",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613973339",
+  "sha256": "a6c5be8ebf8ad0363af465beb0c5e142fb22497c54392e04f3f2a40a6f0ffee0",
   "size": 26643208,
-  "notes": "修复侧栏收起和展开时反复测量、重组导致的卡顿，去掉侧栏搜索栏圆角背景。Release 构建、必要 Lint 和网格测试通过，签名与上一正式版一致。全量 JVM 测试首次有 2 项 WebDAV 测试失败，单独复跑均通过；本次未重跑设备测试，未执行真实升级安装。"
+  "notes": "修复详情编辑和应用更新弹窗的模糊透明背景，统一底部双按钮布局；更新弹窗保留忽略版本勾选项及取消下载功能。JVM 测试、Release 构建和必要 Lint 通过，签名与上一正式版一致。此前 7 项弹窗设备测试通过，本次未重跑；真实升级安装未验证。"
 }
