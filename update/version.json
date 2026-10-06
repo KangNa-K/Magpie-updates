@@ -4,5 +4,5 @@
   "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/614068311",
   "sha256": "81ef5a719f7f76dc12b5bb6a19753aa826ae71570e7f69f11d5712808291bb46",
   "size": 26643208,
-  "notes": "优化详情侧栏深色模式按钮配色，将详情背景与图片退出动画分离，避免下滑退出时两侧留白随图片缩小。JVM 测试、Release 构建和必要 Lint 通过，签名与上一正式版一致；动画、配色及真实升级安装尚未完成真机验证。"
+  "notes": "优化详情侧栏深色模式的标签、文件夹和添加按钮配色；优化下滑退出图片详情的动画，避免两侧留白随图片缩小。"
 }
