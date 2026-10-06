@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "0.10.68",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613888620",
-  "sha256": "f716a438a777b8b4314e187c1576e1c1b48036ce71612a78e0a2fac642328391",
+  "versionCode": 41,
+  "versionName": "0.10.69",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/613936625",
+  "sha256": "b6812757d0d4e7a1e3f3482a8ad56e58616179937aa960adcdffc6ce1f55c1d1",
   "size": 26643208,
-  "notes": "基于当前工作区整体发布，延续侧栏动画、网格列数计算、图片占位动画及详情页毛玻璃背景优化。完整 JVM 测试、Release 构建和必要 Lint 通过，签名与上一正式版一致；设备性能测试和真实升级安装未执行。"
+  "notes": "修复侧栏收起和展开时反复测量、重组导致的卡顿，去掉侧栏搜索栏圆角背景。Release 构建、必要 Lint 和网格测试通过，签名与上一正式版一致。全量 JVM 测试首次有 2 项 WebDAV 测试失败，单独复跑均通过；本次未重跑设备测试，未执行真实升级安装。"
 }
