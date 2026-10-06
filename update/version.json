@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "0.10.71",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/614068311",
-  "sha256": "81ef5a719f7f76dc12b5bb6a19753aa826ae71570e7f69f11d5712808291bb46",
+  "versionCode": 44,
+  "versionName": "0.10.72",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/614227052",
+  "sha256": "83a841d02f5e12ab4193e3a05eeb516d3bfb063e7d6d917d6a58e2e0f3649809",
   "size": 26643208,
-  "notes": "优化详情侧栏深色模式的标签、文件夹和添加按钮配色；优化下滑退出图片详情的动画，避免两侧留白随图片缩小。"
+  "notes": "修正详情侧栏毛玻璃的背景取样，按组件实际位置显示背景；优化图片缩放、平移和切页时的毛玻璃取样。"
 }
