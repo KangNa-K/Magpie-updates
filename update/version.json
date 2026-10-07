@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "1.0.3",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618132612",
-  "sha256": "021bc4e05c23869d8deb70fd0ec00723b9861a2439c014148d8dae766f8ef5f3",
+  "versionCode": 50,
+  "versionName": "1.0.4",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618384254",
+  "sha256": "4cb9dac925b2b25bef1264879f7b36f68f3a5f0badea0aa9d55a5864559838e0",
   "size": 28548288,
-  "notes": "改进侧栏文件夹滑动重命名、删除和收藏，优化文件夹选择工具栏及弹窗、提示的玻璃材质。"
+  "notes": "优化浏览侧栏、文件夹操作和详情交互动效，改进玻璃材质与图片缩放背景，增强素材库读取、导入恢复及元数据操作可靠性。"
 }
