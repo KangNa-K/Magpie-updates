@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0.8",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/619302105",
-  "sha256": "6cf773e2a3a942b000bf83a789b18ed93ab5926b63256bd592017be3e81a7afa",
-  "size": 28598748,
-  "notes": "优化浏览菜单图标与文字的垂直对齐，调整侧栏项目的水平间距与高亮区域对齐。"
+  "versionCode": 55,
+  "versionName": "1.0.9",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/619997669",
+  "sha256": "0a59e1b3b767225bf65a329e276b59d356ca39bd9f65292979d6b2c79166d6ad",
+  "size": 28615164,
+  "notes": "优化视频详情页工具栏与播放控制相关体验，改进详情页操作区域和浏览交互的稳定性。"
 }
