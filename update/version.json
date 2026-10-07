@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "1.0.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618384254",
-  "sha256": "4cb9dac925b2b25bef1264879f7b36f68f3a5f0badea0aa9d55a5864559838e0",
-  "size": 28548288,
-  "notes": "优化浏览侧栏、文件夹操作和详情交互动效，改进玻璃材质与图片缩放背景，增强素材库读取、导入恢复及元数据操作可靠性。"
+  "versionCode": 51,
+  "versionName": "1.0.5",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618488011",
+  "sha256": "43e4503bd7138c1f3868b184f1481209d75cb6237643277f0d3d4d2788bb3ce8",
+  "size": 28564672,
+  "notes": "提升详情侧栏文字对比度并统一分隔线表现，改进浏览侧栏与玻璃背景显示，调整格式筛选菜单分组和操作状态。"
 }
