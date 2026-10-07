@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "1.0.7",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618756668",
-  "sha256": "0032b4c7f706e72eca123e9d2788a87c22a3f2f415bf7ffe92d65fd0d388d322",
+  "versionCode": 54,
+  "versionName": "1.0.8",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/619302105",
+  "sha256": "6cf773e2a3a942b000bf83a789b18ed93ab5926b63256bd592017be3e81a7afa",
   "size": 28598748,
-  "notes": "改进素材库来源展示与云盘凭据隔离，优化侧栏筛选、折叠和文件夹排序，以及浏览菜单交互。"
+  "notes": "优化浏览菜单图标与文字的垂直对齐，调整侧栏项目的水平间距与高亮区域对齐。"
 }
