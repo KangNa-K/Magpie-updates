@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "1.0.0",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/617218746",
-  "sha256": "28e7a08de7d5ab3ef3ab4dd3fb617c3638a34723829a9b142eef5d67ca91dbcc",
-  "size": 28388868,
-  "notes": "Magpie 1.0 正式版，支持素材库浏览、图片与视频预览、标签管理及云端素材库。"
+  "versionCode": 47,
+  "versionName": "1.0.1",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/617427459",
+  "sha256": "3704032d7491cb9fce24dba5c2ef07c52d04606411851a3af5d4b9ca0d787898",
+  "size": 28531904,
+  "notes": "增强素材导入、图片与视频预览、素材库读写恢复、批量操作及 AI 模型配置可靠性。"
 }
