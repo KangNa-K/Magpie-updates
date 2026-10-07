@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "1.0.1",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/617427459",
-  "sha256": "3704032d7491cb9fce24dba5c2ef07c52d04606411851a3af5d4b9ca0d787898",
+  "versionCode": 48,
+  "versionName": "1.0.2",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/617879291",
+  "sha256": "22ef41d5541ddf444f32e40bcae3f1e6b269a20392492b74151efd8a8e120c64",
   "size": 28531904,
-  "notes": "增强素材导入、图片与视频预览、素材库读写恢复、批量操作及 AI 模型配置可靠性。"
+  "notes": "改进素材导入与恢复、云端素材库读写、视频播放与手势、文件夹访问控制、弹窗交互及 AI 批处理可靠性。"
 }
