@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "1.0.2",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/617879291",
-  "sha256": "22ef41d5541ddf444f32e40bcae3f1e6b269a20392492b74151efd8a8e120c64",
-  "size": 28531904,
-  "notes": "改进素材导入与恢复、云端素材库读写、视频播放与手势、文件夹访问控制、弹窗交互及 AI 批处理可靠性。"
+  "versionCode": 49,
+  "versionName": "1.0.3",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618132612",
+  "sha256": "021bc4e05c23869d8deb70fd0ec00723b9861a2439c014148d8dae766f8ef5f3",
+  "size": 28548288,
+  "notes": "改进侧栏文件夹滑动重命名、删除和收藏，优化文件夹选择工具栏及弹窗、提示的玻璃材质。"
 }
