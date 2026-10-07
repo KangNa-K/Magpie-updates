@@ -1,8 +1,8 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.5",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618488011",
-  "sha256": "43e4503bd7138c1f3868b184f1481209d75cb6237643277f0d3d4d2788bb3ce8",
+  "versionCode": 52,
+  "versionName": "1.0.6",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618563967",
+  "sha256": "9f0979a946f083402abe10f2bf7a56610567c6ea4fc91e5c9239f0278ecf67c0",
   "size": 28564672,
-  "notes": "提升详情侧栏文字对比度并统一分隔线表现，改进浏览侧栏与玻璃背景显示，调整格式筛选菜单分组和操作状态。"
+  "notes": "支持快捷访问和智能文件夹独立排序，保留其他快捷入口及扩展数据；修正侧栏“全部”入口图标状态；统一多选工具栏线框图标。"
 }
