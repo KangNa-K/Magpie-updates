@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
-  "versionName": "1.0.6",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618563967",
-  "sha256": "9f0979a946f083402abe10f2bf7a56610567c6ea4fc91e5c9239f0278ecf67c0",
-  "size": 28564672,
-  "notes": "支持快捷访问和智能文件夹独立排序，保留其他快捷入口及扩展数据；修正侧栏“全部”入口图标状态；统一多选工具栏线框图标。"
+  "versionCode": 53,
+  "versionName": "1.0.7",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/618756668",
+  "sha256": "0032b4c7f706e72eca123e9d2788a87c22a3f2f415bf7ffe92d65fd0d388d322",
+  "size": 28598748,
+  "notes": "改进素材库来源展示与云盘凭据隔离，优化侧栏筛选、折叠和文件夹排序，以及浏览菜单交互。"
 }
