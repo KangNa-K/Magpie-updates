@@ -1,8 +1,8 @@
 {
-  "versionCode": 57,
-  "versionName": "1.0.11",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/622000434",
-  "sha256": "20f4ff04ad91d6c8f5559a4ccde35878e67eb835e1c23f348026b0cabdeafa07",
-  "size": 28615164,
-  "notes": "优化手机和平板的自适应布局与侧栏显示；优化窄屏批量操作菜单；保持覆盖式侧栏开关时详情图片区域的稳定。"
+  "versionCode": 58,
+  "versionName": "1.0.12",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/623178740",
+  "sha256": "783f092d05300c9d37bdf01a6d3e1afbd7259d29bb7520fbd805e25a9c9aacb0",
+  "size": 28647932,
+  "notes": "修复图片详情页下滑退出时底部悬浮工具栏背景突然变色的问题；拖动、取消回弹和退出动画期间持续采样详情画面，关闭后再切换至图库背景。"
 }
