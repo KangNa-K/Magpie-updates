@@ -1,8 +1,8 @@
 {
-  "versionCode": 56,
-  "versionName": "1.0.10",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/620314852",
-  "sha256": "27ea33b836ea624cf3820046d4237b3d6967160d1e97b4edd241549238858013",
+  "versionCode": 57,
+  "versionName": "1.0.11",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/622000434",
+  "sha256": "20f4ff04ad91d6c8f5559a4ccde35878e67eb835e1c23f348026b0cabdeafa07",
   "size": 28615164,
-  "notes": "改进详情页原文件分享，支持通过素材库后端读取并分享文件；改进图片和视频保存到相册，完善失败处理与重复操作保护；调整详情页操作按钮，优化图片双击缩放复位体验；改进 WebDAV 限流提示及重试等待处理。"
+  "notes": "优化手机和平板的自适应布局与侧栏显示；优化窄屏批量操作菜单；保持覆盖式侧栏开关时详情图片区域的稳定。"
 }
