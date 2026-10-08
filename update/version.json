@@ -1,8 +1,8 @@
 {
-  "versionCode": 58,
-  "versionName": "1.0.12",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/623178740",
-  "sha256": "783f092d05300c9d37bdf01a6d3e1afbd7259d29bb7520fbd805e25a9c9aacb0",
+  "versionCode": 59,
+  "versionName": "1.0.13",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/623257190",
+  "sha256": "e2dc96f1b8004c3eecaf4bfb8a40ecebf03ea69c811c6d7d060356e479cc1351",
   "size": 28647932,
-  "notes": "修复图片详情页下滑退出时底部悬浮工具栏背景突然变色的问题；拖动、取消回弹和退出动画期间持续采样详情画面，关闭后再切换至图库背景。"
+  "notes": "修复图片详情页下滑退出末段底部悬浮工具栏短暂变成实色的问题；毛玻璃背景持续采样详情与正在露出的图库画面，改善返回首页时的视觉连续性。"
 }
