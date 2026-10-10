@@ -1,8 +1,8 @@
 {
-  "versionCode": 59,
-  "versionName": "1.0.13",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/623257190",
-  "sha256": "e2dc96f1b8004c3eecaf4bfb8a40ecebf03ea69c811c6d7d060356e479cc1351",
-  "size": 28647932,
-  "notes": "修复图片详情页下滑退出末段底部悬浮工具栏短暂变成实色的问题；毛玻璃背景持续采样详情与正在露出的图库画面，改善返回首页时的视觉连续性。"
+  "versionCode": 60,
+  "versionName": "1.0.14",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/628339908",
+  "sha256": "332703dd3237ca266b190dafb14c6d6a7ffd6755726779c967eb80563a68e11d",
+  "size": 28614420,
+  "notes": "移除 Google 网盘素材库入口、授权流程及相关文件访问功能；不再恢复或使用旧的 Google 网盘素材库记录，不会删除远端文件；保留本地、SMB、WebDAV 和 OneDrive 支持。"
 }
