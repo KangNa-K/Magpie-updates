@@ -1,8 +1,8 @@
 {
-  "versionCode": 61,
-  "versionName": "1.0.15",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/629330359",
-  "sha256": "69998324d795a65b40cc054c6120670d4574fea1809cc1d4d62a8fdd85fb2fea",
+  "versionCode": 62,
+  "versionName": "1.0.16",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/630334939",
+  "sha256": "0f2d2067a72292e1cd284cf92146caaed875470a7da7674fc10afe9f36965fa",
   "size": 28614420,
-  "notes": "优化开启毛玻璃时侧边栏分隔线过亮的问题；选中项改为更轻薄的半透明高亮，保持清晰的选中提示。"
+  "notes": "修复筛选栏各类弹窗中的视觉对齐问题；统一弹窗选项行高、文字起点和复选框位置；移除右侧不必要的开关状态指示。"
 }
