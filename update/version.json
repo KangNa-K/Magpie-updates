@@ -1,8 +1,8 @@
 {
-  "versionCode": 62,
-  "versionName": "1.0.16",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/630334939",
-  "sha256": "0f2d2067a72292e1cd284cf92146caaed875470a7da7674fc10afe9f36965fa7",
-  "size": 28614420,
-  "notes": "修复筛选栏各类弹窗中的视觉对齐问题；统一弹窗选项行高、文字起点和复选框位置；移除右侧不必要的开关状态指示。"
+  "versionCode": 63,
+  "versionName": "1.0.17",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/630545228",
+  "sha256": "a69cad51649af0191e93a9388a0076b4115fca5713b5222ecfd601db901a8d95",
+  "size": 28257740,
+  "notes": "更换应用图标为浅色背景的扁平喜鹊图标，更新各分辨率桌面图标及自适应图标；启动页保持不变。"
 }
