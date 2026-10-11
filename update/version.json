@@ -1,8 +1,8 @@
 {
-  "versionCode": 60,
-  "versionName": "1.0.14",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/628339908",
-  "sha256": "332703dd3237ca266b190dafb14c6d6a7ffd6755726779c967eb80563a68e11d",
+  "versionCode": 61,
+  "versionName": "1.0.15",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/629330359",
+  "sha256": "69998324d795a65b40cc054c6120670d4574fea1809cc1d4d62a8fdd85fb2fea",
   "size": 28614420,
-  "notes": "移除 Google 网盘素材库入口、授权流程及相关文件访问功能；不再恢复或使用旧的 Google 网盘素材库记录，不会删除远端文件；保留本地、SMB、WebDAV 和 OneDrive 支持。"
+  "notes": "优化开启毛玻璃时侧边栏分隔线过亮的问题；选中项改为更轻薄的半透明高亮，保持清晰的选中提示。"
 }
