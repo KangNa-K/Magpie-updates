@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "1.0.18",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/630858652",
-  "sha256": "42c8cf8c9acf27c110dfc501261c981526ff8bf83169934cf1bd5fe06a507716",
-  "size": 28257740,
-  "notes": "修复连续添加标签、文件夹时修改未保存的问题；文件夹多选合并为一次保存；新建文件夹后保留此前选择；离线或保存失败时保留编辑草稿，并继续保护远端并发修改。"
+  "versionCode": 65,
+  "versionName": "1.0.19",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/647937770",
+  "sha256": "e7245677399dd735d591d76490fd500b8f4a74b907309513035fe082878cc6e4",
+  "size": 28339660,
+  "notes": "授权设置改为紧凑单行，新增激活成功反馈；支持查看并解绑自己激活码绑定的设备，名额满时也可管理。已激活设备每 24 小时联网验证，最多离线 7 天；解绑或验证到期后转为只读，不删除文件。已有永久离线凭证升级后需首次联网迁移；旧版本请升级以使用新的授权规则。"
 }
