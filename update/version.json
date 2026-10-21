@@ -4,5 +4,5 @@
   "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/662988444",
   "sha256": "fa0a959dc7f9001038a8abf66211eab8b082d8db5c16e24f4b39380751cd3beb",
   "size": 28356044,
-  "notes": "进一步加快 Eagle 素材包导入，批量提交素材 mtime，减少重复读取和写入库元数据。"
+  "notes": "大幅加快 Eagle 素材包导入，修复 unsafe item filename 误判；跳过无缩略图素材解码，合并 mtime 批量提交并减少 SAF 重复查询。"
 }
