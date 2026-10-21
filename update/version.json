@@ -1,8 +1,8 @@
 {
-  "versionCode": 70,
-  "versionName": "1.0.24",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/663018809",
-  "sha256": "165e3d0b7f1703b6c78fae5ac9acce7a78b90b54cb0f4ee876684d81705dd5bb",
+  "versionCode": 71,
+  "versionName": "1.0.25",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/663220223",
+  "sha256": "4e1e0aa739bd12f002c047291802fe69008461ff09274fcd09ac9ec53f30d0e1",
   "size": 28356044,
-  "notes": "大幅加快 Eagle 素材包导入，修复 unsafe item filename 误判；跳过无缩略图素材解码，合并 mtime 批量提交并减少 SAF 重复查询。"
+  "notes": "修复导入素材包后部分图片缩略图不显示的问题；缩略图缺失时图片网格回退显示原图。"
 }
