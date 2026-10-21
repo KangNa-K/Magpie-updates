@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "1.0.19",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/647937770",
-  "sha256": "e7245677399dd735d591d76490fd500b8f4a74b907309513035fe082878cc6e4",
+  "versionCode": 66,
+  "versionName": "1.0.20",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/661610818",
+  "sha256": "43cfb29630b594258ecaca4d249ca8fd9f6507489ccf2ede83305ed1bd49d015",
   "size": 28339660,
-  "notes": "授权设置改为紧凑单行，新增激活成功反馈；支持查看并解绑自己激活码绑定的设备，名额满时也可管理。已激活设备每 24 小时联网验证，最多离线 7 天；解绑或验证到期后转为只读，不删除文件。已有永久离线凭证升级后需首次联网迁移；旧版本请升级以使用新的授权规则。"
+  "notes": "修复导入 Eagle 导出的素材包后只显示文件夹、素材未导入的问题。"
 }
