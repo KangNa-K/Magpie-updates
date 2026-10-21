@@ -1,8 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "1.0.22",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/662939333",
-  "sha256": "a1fa83f882ab9751de70ba94b23c46d368b74a0a2d0b94aa5bd5d20aae38508e",
+  "versionCode": 69,
+  "versionName": "1.0.23",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/662988444",
+  "sha256": "fa0a959dc7f9001038a8abf66211eab8b082d8db5c16e24f4b39380751cd3beb",
   "size": 28356044,
-  "notes": "加快 Eagle 素材包导入，修复不安全文件名误判，并优化批量导入的写入与缩略图处理。"
+  "notes": "进一步加快 Eagle 素材包导入，批量提交素材 mtime，减少重复读取和写入库元数据。"
 }
