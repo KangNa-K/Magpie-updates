@@ -1,8 +1,8 @@
 {
-  "versionCode": 66,
-  "versionName": "1.0.20",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/661610818",
-  "sha256": "43cfb29630b594258ecaca4d249ca8fd9f6507489ccf2ede83305ed1bd49d015",
+  "versionCode": 67,
+  "versionName": "1.0.21",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/661846784",
+  "sha256": "698d08ed88eecc511779a7cfeeafddf080feaad2251ea17dc1a40e9257097942",
   "size": 28339660,
-  "notes": "修复导入 Eagle 导出的素材包后只显示文件夹、素材未导入的问题。"
+  "notes": "加快 Eagle 素材包导入，修复包含连续空格文件名的素材被跳过，并改进取消后的恢复处理。"
 }
