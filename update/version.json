@@ -1,8 +1,8 @@
 {
-  "versionCode": 73,
-  "versionName": "1.1.0",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/673276945",
-  "sha256": "38eed85170d9d334bf5939e5770f297a37c2be587fc7c4278f4bb5b09b097eff",
+  "versionCode": 74,
+  "versionName": "1.1.1",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/673389255",
+  "sha256": "9be29fb4d1fb89f0c5d35c57caba393bcb08be213d110eddbbd7aad45ee26756",
   "size": 28530629,
-  "notes": "大型 WebDAV / SMB 资源库加载与离线快照校验优化；新增 Pinterest 和花瓣关键词素材搜索、原图采集与导入进度；改进 SMB 稳定性、浏览器多选/缩放、文件夹数量和重复导入处理。"
+  "notes": "修复素材库图片双指捏合缩放的手势区域，现在整个素材库显示区域都可以触发缩放。"
 }
