@@ -1,8 +1,8 @@
 {
-  "versionCode": 72,
-  "versionName": "1.0.26",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/672005002",
-  "sha256": "db0acb2c2a8322747bc665cbf232e244fff0ee6d5965fd9c0838cc46ef3cc6c0",
-  "size": 28372904,
-  "notes": "重复导入同一 Eagle 素材包时复用已有素材和文件夹，保留已有素材修改；改进导入恢复和批量元数据写入，提升大批量导入稳定性和效率；侧栏文件夹显示素材数量并优化展开/收起布局。"
+  "versionCode": 73,
+  "versionName": "1.1.0",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/673276945",
+  "sha256": "38eed85170d9d334bf5939e5770f297a37c2be587fc7c4278f4bb5b09b097eff",
+  "size": 28530629,
+  "notes": "大型 WebDAV / SMB 资源库加载与离线快照校验优化；新增 Pinterest 和花瓣关键词素材搜索、原图采集与导入进度；改进 SMB 稳定性、浏览器多选/缩放、文件夹数量和重复导入处理。"
 }
