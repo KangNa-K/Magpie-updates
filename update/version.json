@@ -1,8 +1,8 @@
 {
-  "versionCode": 80,
-  "versionName": "1.1.7",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/675427547",
-  "sha256": "bd26e20cab508e0fe3d3b132845391f0b28891f591c99fa6de685a9a0c936408",
-  "size": 28564025,
-  "notes": "Pinterest 搜索默认启用减少 AI 生成内容筛选；首次搜索、加载更多、中文备用查询及打开搜索网页时均保留筛选，不影响其他搜索站点。"
+  "versionCode": 81,
+  "versionName": "1.1.8",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/676419434",
+  "sha256": "9ed3915d6d42ec6c3e27a48cfdada968bf00566bcdaa0a96a769c60b5e39965a",
+  "size": 28580409,
+  "notes": "批量导入改为滚动并发，统一最多同时处理 10 个文件；本地和云端素材库均保留恢复、取消和失败重试保护。"
 }
