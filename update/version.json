@@ -1,8 +1,8 @@
 {
-  "versionCode": 74,
-  "versionName": "1.1.1",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/673389255",
-  "sha256": "9be29fb4d1fb89f0c5d35c57caba393bcb08be213d110eddbbd7aad45ee26756",
+  "versionCode": 75,
+  "versionName": "1.1.2",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/674094005",
+  "sha256": "e8253d524adcfba0450847a6014af0559f474c521711367a1f85999f90956c17",
   "size": 28530629,
-  "notes": "修复素材库图片双指捏合缩放的手势区域，现在整个素材库显示区域都可以触发缩放。"
+  "notes": "修复 WebDAV 素材库回收站中远端已删除文件仍残留、且无法删除的问题；删除后清理本地快照，避免旧回收站条目再次出现；保留 WebDAV 权限、锁定和网络错误，避免把真实失败误报为删除成功。"
 }
