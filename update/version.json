@@ -1,8 +1,8 @@
 {
-  "versionCode": 76,
-  "versionName": "1.1.3",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/674134994",
-  "sha256": "6fab586e426c8772c55c583c61c0f98bf095ab657a854c05567d97b559418b77",
+  "versionCode": 77,
+  "versionName": "1.1.4",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/674223061",
+  "sha256": "dca843fb1589690d3611254963b3291ab8dbd56afb3f587ba48e32482b69c9f1",
   "size": 28530629,
-  "notes": "重复图片扫描仅枚举素材文件，不再为 SMB 和云端素材库遍历、解析全部 metadata.json；远程库扫描可在浏览器元数据加载完成前开始，并按图片素材数量显示进度。"
+  "notes": "双指捏合按列数切换图片网格：每次手势只增减一列；每个列数档位均分整行宽度，避免右侧出现大片空白。"
 }
