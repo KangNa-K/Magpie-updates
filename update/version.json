@@ -1,8 +1,8 @@
 {
-  "versionCode": 79,
-  "versionName": "1.1.6",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/674399746",
-  "sha256": "de4eca62e662b0a7bff9e095253d275604e049faf0db19321f362a802046e5a2",
+  "versionCode": 80,
+  "versionName": "1.1.7",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/675427547",
+  "sha256": "bd26e20cab508e0fe3d3b132845391f0b28891f591c99fa6de685a9a0c936408",
   "size": 28564025,
-  "notes": "修复 WebDAV 资料库中个别素材缺少元数据导致整库加载失败的问题；支持更多素材格式恢复显示，无法确定原图时保留占位并提示缺失信息，不改动原资料库。"
+  "notes": "Pinterest 搜索默认启用减少 AI 生成内容筛选；首次搜索、加载更多、中文备用查询及打开搜索网页时均保留筛选，不影响其他搜索站点。"
 }
