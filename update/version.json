@@ -1,8 +1,8 @@
 {
-  "versionCode": 78,
-  "versionName": "1.1.5",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/674330768",
-  "sha256": "3228373628614fe8a25b8d9cbde1727659aa01f975c27359f48f6230df44525a",
-  "size": 28563397,
-  "notes": "相似图片结果改为合并并替换，不再默认移入回收站；自动推荐保留高分辨率图片，支持手动更换，并合并文件夹、标签、评分、注释和标注。"
+  "versionCode": 79,
+  "versionName": "1.1.6",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/674399746",
+  "sha256": "de4eca62e662b0a7bff9e095253d275604e049faf0db19321f362a802046e5a2",
+  "size": 28564025,
+  "notes": "修复 WebDAV 资料库中个别素材缺少元数据导致整库加载失败的问题；支持更多素材格式恢复显示，无法确定原图时保留占位并提示缺失信息，不改动原资料库。"
 }
