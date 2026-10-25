@@ -1,8 +1,8 @@
 {
-  "versionCode": 77,
-  "versionName": "1.1.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/674223061",
-  "sha256": "dca843fb1589690d3611254963b3291ab8dbd56afb3f587ba48e32482b69c9f1",
-  "size": 28530629,
-  "notes": "双指捏合按列数切换图片网格：每次手势只增减一列；每个列数档位均分整行宽度，避免右侧出现大片空白。"
+  "versionCode": 78,
+  "versionName": "1.1.5",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/674330768",
+  "sha256": "3228373628614fe8a25b8d9cbde1727659aa01f975c27359f48f6230df44525a",
+  "size": 28563397,
+  "notes": "相似图片结果改为合并并替换，不再默认移入回收站；自动推荐保留高分辨率图片，支持手动更换，并合并文件夹、标签、评分、注释和标注。"
 }
