@@ -1,8 +1,8 @@
 {
-  "versionCode": 81,
-  "versionName": "1.1.8",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/676419434",
-  "sha256": "9ed3915d6d42ec6c3e27a48cfdada968bf00566bcdaa0a96a769c60b5e39965a",
-  "size": 28580409,
-  "notes": "批量导入改为滚动并发，统一最多同时处理 10 个文件；本地和云端素材库均保留恢复、取消和失败重试保护。"
+  "versionCode": 82,
+  "versionName": "1.1.9",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/676777441",
+  "sha256": "17898fcaa2d4665b36c7e35cbc0df080df4a104913a4abaf97101f4e7cb23d2e",
+  "size": 28598857,
+  "notes": "优化拖入素材后的写入流程，减少重复目录查询；单文件导入显示读取原文件、生成缩略图、写入素材库和保存索引阶段，读取时显示已传输大小。保留原图完整性、取消、恢复与失败重试保护，并修复 Android 8.0 视频预览兼容性。"
 }
