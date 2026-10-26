@@ -1,8 +1,8 @@
 {
-  "versionCode": 85,
-  "versionName": "1.1.12",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/679411285",
-  "sha256": "6a407348a930615895263db6d4f6f4977b7eaba1ab1dc17efe4ef66e8c13b47c",
-  "size": 28598853,
-  "notes": "修复图片详情页标注稳定性、翻转和旋转后闪烁及裁切比例切换问题；裁切支持双指缩放和平移；单击图片切换控件与背景显示；修正手机标签弹窗位置并使用中性灰选中提示；回收站按钮使用统一红色；首页图片间距更紧凑并取消圆角。"
+  "versionCode": 86,
+  "versionName": "1.1.13",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/679488106",
+  "sha256": "26c3f5659e4a6498c6f83cc7655fed6bb5ad34cc1f11cbd40e24f478520103a7",
+  "size": 28615237,
+  "notes": "图片详情页隐藏控件后保持纯黑背景；修复底部悬浮栏第二个按钮闪退；裁切双指缩放和平移只作用于图片，裁切框保持固定，保存内容与框内一致；默认裁切框与图片对齐；修复重置、取消、确认按钮及返回退出裁切。"
 }
