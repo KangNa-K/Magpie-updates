@@ -1,8 +1,8 @@
 {
-  "versionCode": 84,
-  "versionName": "1.1.11",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/678299291",
-  "sha256": "7e8d34d451133ec986269bfe4d769bb19a344c9d72feec30d2a906768fdd230c",
+  "versionCode": 85,
+  "versionName": "1.1.12",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/679411285",
+  "sha256": "6a407348a930615895263db6d4f6f4977b7eaba1ab1dc17efe4ef66e8c13b47c",
   "size": 28598853,
-  "notes": "支持从其他应用将图片和视频直接拖入资料库，支持多文件和进度反馈；AI 批量处理成功后自动收起结果弹窗；优化文件夹创建流程，并修复裁剪框贴边时无法向内调整。"
+  "notes": "修复图片详情页标注稳定性、翻转和旋转后闪烁及裁切比例切换问题；裁切支持双指缩放和平移；单击图片切换控件与背景显示；修正手机标签弹窗位置并使用中性灰选中提示；回收站按钮使用统一红色；首页图片间距更紧凑并取消圆角。"
 }
