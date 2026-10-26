@@ -1,8 +1,8 @@
 {
-  "versionCode": 82,
-  "versionName": "1.1.9",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/676777441",
-  "sha256": "17898fcaa2d4665b36c7e35cbc0df080df4a104913a4abaf97101f4e7cb23d2e",
-  "size": 28598857,
-  "notes": "优化拖入素材后的写入流程，减少重复目录查询；单文件导入显示读取原文件、生成缩略图、写入素材库和保存索引阶段，读取时显示已传输大小。保留原图完整性、取消、恢复与失败重试保护，并修复 Android 8.0 视频预览兼容性。"
+  "versionCode": 83,
+  "versionName": "1.1.10",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/676888068",
+  "sha256": "44a64d2ed4a19130bb9849872043d23f4c67397bfcb7ed2da1801c4307e71ed6",
+  "size": 28598853,
+  "notes": "继续优化拖入后“正在保存索引”的耗时：本地 SAF 元数据查找改为一次批量查询，减少逐文件名称查询；合并索引时间戳与恢复标记写入，保留冲突检测和中断恢复保护，并修复输出流不可用时误报写入成功的问题。"
 }
