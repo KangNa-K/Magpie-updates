@@ -1,8 +1,8 @@
 {
-  "versionCode": 87,
-  "versionName": "1.1.14",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/679838590",
-  "sha256": "3135024d02cd3da082853014243de4ad3b1b32486b8c2e5029cecc2c4bf147f2",
-  "size": 28615237,
-  "notes": "优化裁切框四角拖动：拖动期间保留实时预览，松手后仅提交一次，降低连续拖动造成的卡顿。"
+  "versionCode": 88,
+  "versionName": "1.1.15",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/679965570",
+  "sha256": "60d66da2aeea7af9afeba44fdb71934a9e862550696c25f18be1810871fc1e6a",
+  "size": 28631625,
+  "notes": "支持外部图片和视频批量拖入并显示导入进度；优化本地资料库索引读写、批量导入恢复，以及图片详情页标注、缩放和裁切交互。"
 }
