@@ -1,8 +1,8 @@
 {
-  "versionCode": 88,
-  "versionName": "1.1.15",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/679965570",
-  "sha256": "60d66da2aeea7af9afeba44fdb71934a9e862550696c25f18be1810871fc1e6a",
-  "size": 28631625,
-  "notes": "支持外部图片和视频批量拖入并显示导入进度；优化本地资料库索引读写、批量导入恢复，以及图片详情页标注、缩放和裁切交互。"
+  "versionCode": 89,
+  "versionName": "1.1.16",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/683448215",
+  "sha256": "c961b5fed222a19b54d19c337d6482cec9044a7ddbc46b6203f675c465207ed2",
+  "size": 28813074,
+  "notes": "支持 Pinterest 用户搜索与公开图板分页浏览；勾选图板后按名称自动创建对应文件夹，再分别导入图片，支持已导入图片检查和失败续传；花瓣关键词搜索保留图片模式并完善失败提示、重试；修复 WebDAV 异常响应误触发重试的问题。"
 }
