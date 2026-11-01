@@ -1,8 +1,8 @@
 {
-  "versionCode": 90,
-  "versionName": "1.1.17",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/686095788",
-  "sha256": "5c3818a964a622eb62684ba444c59142b3b65783aaaece4a0507e80312981442",
-  "size": 28813074,
-  "notes": "优化单张和多张拖入素材导入；单张导入成功后直接进入素材库，多张导入采用滚动并发并减少重复恢复记录写盘；保留中断恢复、失败重试、重复检查，以及原图和缩略图完整性保护。"
+  "versionCode": 91,
+  "versionName": "1.2.0",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/697859331",
+  "sha256": "30bd7c0d2e3d90c600e9e1c1928ab2de71200597d1b7bc9cac5189521020fc75",
+  "size": 9929174,
+  "notes": "新增链接导入：粘贴 B 站、抖音、小红书、Pinterest、花瓣链接即可预览并保存素材；抖音、小红书优先下载无水印版本，抖音视频支持 1080P；B 站和抖音视频使用平台封面作为缩略图；链接视频显示下载进度并支持断点续传；新增元数据冲突处理弹窗；优化大素材库加载和远程视频拖动，安装包体积明显减小。"
 }
