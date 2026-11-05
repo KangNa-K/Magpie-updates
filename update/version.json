@@ -1,8 +1,8 @@
 {
-  "versionCode": 92,
-  "versionName": "1.2.1",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/702059804",
-  "sha256": "e4be1629f023d7866bdc1b41beaf11a8c0e8346db92c34aba2505dde802e7ada",
-  "size": 9946994,
-  "notes": "优化本地素材库读取和缩略图显示；优化素材包导入进度与重复素材处理；整合链接导入、视频封面及平台素材下载改进。"
+  "versionCode": 93,
+  "versionName": "1.2.2",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/713570347",
+  "sha256": "c7358b332c18a9d8e2fdb7514bda4fb1c7560d5d321be05429db0908a67ff345",
+  "size": 9979762,
+  "notes": "支持在应用内查看并确认上次未完成写入的素材；确认前检查素材元数据与查看时一致，保留异常及未确认项目；修复 WebDAV 目录列表遇到空字段时的读取失败，并改进浏览错误提示。"
 }
