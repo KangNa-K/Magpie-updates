@@ -1,8 +1,1 @@
-{
-  "versionCode": 93,
-  "versionName": "1.2.2",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/713570347",
-  "sha256": "c7358b332c18a9d8e2fdb7514bda4fb1c7560d5d321be05429db0908a67ff345",
-  "size": 9979762,
-  "notes": "支持在应用内查看并确认上次未完成写入的素材；确认前检查素材元数据与查看时一致，保留异常及未确认项目；修复 WebDAV 目录列表遇到空字段时的读取失败，并改进浏览错误提示。"
-}
+{"versionCode":94,"versionName":"1.2.3","apkUrl":"https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/720686808","sha256":"0daf6a26e5ca4a78c97331028e6cd3e481f3565e85cb9a6ca49783e49ef5953b","size":9979938,"notes":"支持接收 Via 浏览器采集的图片和视频，并保留网页来源与视频封面；浏览器导入后素材增量显示，无需重载整个素材库。"}
