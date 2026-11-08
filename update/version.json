@@ -1,8 +1,8 @@
 {
-  "versionCode": 95,
-  "versionName": "1.2.4",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/722799075",
-  "sha256": "d853cfe1d70ae844b3a8a214353f15fef3f5299f32113265d3cbbe183a535645",
-  "size": 9996318,
-  "notes": "优化搜索历史弹窗布局，支持紧凑标签排列、展开收起、长按删除和清空；搜索栏支持清除输入，图片浏览模式支持搜索历史恢复。"
+  "versionCode": 96,
+  "versionName": "1.2.5",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/723087357",
+  "sha256": "0c97339939d5ab01f959c8b007e3c2a4a2f53fd86fb2085cc89ed69b890135c3",
+  "size": 10012706,
+  "notes": "浏览器与搜索导入的大型视频支持最多 8 段并发下载；支持 Via 导入图片、视频、音频和文档；新增本地及素材搜索历史、文档打开与未完成写入确认，并改进导入进度和 WebDAV 可靠性。"
 }
