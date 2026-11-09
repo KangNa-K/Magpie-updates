@@ -1,8 +1,8 @@
 {
-  "versionCode": 99,
-  "versionName": "1.2.8",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/727763539",
-  "sha256": "404a986eb918d5de60c90ad2b8794502a98ebf8557c799f5a662242bc6c0afc0",
+  "versionCode": 100,
+  "versionName": "1.2.9",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/728069789",
+  "sha256": "f37379da204125862b7b87efe9626367e83b3e9485d06eb936c5b852b7352a8e",
   "size": 10045470,
-  "notes": "Via 支持匿名 HTTPS HLS/DASH 点播清单解析、清晰度与音轨选择，并将下载内容合并为 MP4 导入素材库；拒绝 DRM、加密、直播和必须登录的清单；改进 B 站高清轨道采集校验与失败重试。"
+  "notes": "视频控件显示时移除整幅画面的阴影遮罩并切换黑色详情背景；新增全屏播放按钮，进出全屏保留播放状态；支持左右滑动调整视频进度，显示目标时间并在松手后跳转。"
 }
