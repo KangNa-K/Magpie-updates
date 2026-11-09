@@ -1,8 +1,8 @@
 {
-  "versionCode": 96,
-  "versionName": "1.2.5",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/723087357",
-  "sha256": "0c97339939d5ab01f959c8b007e3c2a4a2f53fd86fb2085cc89ed69b890135c3",
-  "size": 10012706,
-  "notes": "浏览器与搜索导入的大型视频支持最多 8 段并发下载；支持 Via 导入图片、视频、音频和文档；新增本地及素材搜索历史、文档打开与未完成写入确认，并改进导入进度和 WebDAV 可靠性。"
+  "versionCode": 99,
+  "versionName": "1.2.8",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/727763539",
+  "sha256": "404a986eb918d5de60c90ad2b8794502a98ebf8557c799f5a662242bc6c0afc0",
+  "size": 10045470,
+  "notes": "Via 支持匿名 HTTPS HLS/DASH 点播清单解析、清晰度与音轨选择，并将下载内容合并为 MP4 导入素材库；拒绝 DRM、加密、直播和必须登录的清单；改进 B 站高清轨道采集校验与失败重试。"
 }
