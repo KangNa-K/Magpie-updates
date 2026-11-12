@@ -1,8 +1,8 @@
 {
-  "versionCode": 105,
-  "versionName": "1.2.14",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/737907744",
-  "sha256": "8260a0d8a8b1ead6ac044b5dcfd8cabf53f07b6063ed8a419dbe4f1f95424ecd",
+  "versionCode": 106,
+  "versionName": "1.2.15",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/738374415",
+  "sha256": "ac24920deeb66bf8d713b285a9dea3c8affa4026bb7909306b1846487cacbb80",
   "size": 10096962,
-  "notes": "支持 Eagle 和 Neat Download Manager 浏览器扩展，可直接读取当前素材库并导入采集链接；改进 Via / YouTube SABR、HLS/DASH 点播与 B 站高清轨道采集，继续仅处理公开、非 DRM 资源。"
+  "notes": "修复三星浏览器 / Chromium 下 Neat Download Manager 扩展无法连接 Magpie 的问题；Eagle 端口被占用时 NDM 仍可独立工作，并增加握手诊断。"
 }
