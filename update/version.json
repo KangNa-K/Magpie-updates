@@ -1,8 +1,8 @@
 {
-  "versionCode": 106,
-  "versionName": "1.2.15",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/738374415",
-  "sha256": "ac24920deeb66bf8d713b285a9dea3c8affa4026bb7909306b1846487cacbb80",
+  "versionCode": 107,
+  "versionName": "1.2.16",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/738536643",
+  "sha256": "cf7fcd3f6a2f20ec1aaa80b030c7515508e2f14ca18ce5bc175a92eef2dd638d",
   "size": 10096962,
-  "notes": "修复三星浏览器 / Chromium 下 Neat Download Manager 扩展无法连接 Magpie 的问题；Eagle 端口被占用时 NDM 仍可独立工作，并增加握手诊断。"
+  "notes": "修复三星浏览器中 Chrome Web Store 版 NeatDownloadManager 扩展因扩展 ID 不匹配而无法连接 Magpie 的问题。"
 }
