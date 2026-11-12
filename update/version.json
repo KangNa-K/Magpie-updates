@@ -1,8 +1,8 @@
 {
-  "versionCode": 100,
-  "versionName": "1.2.9",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/728069789",
-  "sha256": "f37379da204125862b7b87efe9626367e83b3e9485d06eb936c5b852b7352a8e",
-  "size": 10045470,
-  "notes": "视频控件显示时移除整幅画面的阴影遮罩并切换黑色详情背景；新增全屏播放按钮，进出全屏保留播放状态；支持左右滑动调整视频进度，显示目标时间并在松手后跳转。"
+  "versionCode": 105,
+  "versionName": "1.2.14",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/737907744",
+  "sha256": "8260a0d8a8b1ead6ac044b5dcfd8cabf53f07b6063ed8a419dbe4f1f95424ecd",
+  "size": 10096962,
+  "notes": "支持 Eagle 和 Neat Download Manager 浏览器扩展，可直接读取当前素材库并导入采集链接；改进 Via / YouTube SABR、HLS/DASH 点播与 B 站高清轨道采集，继续仅处理公开、非 DRM 资源。"
 }
