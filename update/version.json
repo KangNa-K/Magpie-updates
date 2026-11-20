@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "1.2.16",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/738536643",
-  "sha256": "cf7fcd3f6a2f20ec1aaa80b030c7515508e2f14ca18ce5bc175a92eef2dd638d",
-  "size": 10096962,
-  "notes": "修复三星浏览器中 Chrome Web Store 版 NeatDownloadManager 扩展因扩展 ID 不匹配而无法连接 Magpie 的问题。"
+  "versionCode": 108,
+  "versionName": "1.2.17",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/771671229",
+  "sha256": "d99052ead4cf7d9bf4a10be097156a2946d93ae54cd9dfdb4265974befd7b72f",
+  "size": 10082246,
+  "notes": "修复正式版缺少 MD4 算法实现，导致 SMB 素材库无法打开的问题。\n设置新增 Neat Download Manager 与 Eagle 浏览器插件支持开关，两项功能暂时强制关闭。\n改进资料库导入、远程存储浏览和连接配置的稳定性。\n优化网页素材采集、媒体下载与导入流程，修复部分视频合并问题。\n改进视频播放与手势交互，并修复详情页和音频播放中的问题。\n优化颜色分析、重复素材扫描及其他后台处理的稳定性和效率。"
 }
