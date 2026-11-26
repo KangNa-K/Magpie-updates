@@ -1,8 +1,8 @@
 {
-  "versionCode": 108,
-  "versionName": "1.2.17",
-  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/771671229",
-  "sha256": "d99052ead4cf7d9bf4a10be097156a2946d93ae54cd9dfdb4265974befd7b72f",
+  "versionCode": 109,
+  "versionName": "1.2.18",
+  "apkUrl": "https://api.github.com/repos/KangNa-K/Magpie-updates/releases/assets/797289482",
+  "sha256": "63ebfddc52ea477097e6bd3dd47ef41cf1bf2b2dc084a8b660c24ef180a424ad",
   "size": 10082246,
-  "notes": "修复正式版缺少 MD4 算法实现，导致 SMB 素材库无法打开的问题。\n设置新增 Neat Download Manager 与 Eagle 浏览器插件支持开关，两项功能暂时强制关闭。\n改进资料库导入、远程存储浏览和连接配置的稳定性。\n优化网页素材采集、媒体下载与导入流程，修复部分视频合并问题。\n改进视频播放与手势交互，并修复详情页和音频播放中的问题。\n优化颜色分析、重复素材扫描及其他后台处理的稳定性和效率。"
+  "notes": "修复底部搜索栏在有搜索历史时丢失输入焦点、无法继续输入的问题，无需清除历史即可搜索。\n改进花瓣访问受限后的重试流程：支持打开安全验证页，手动完成验证后点击“验证后继续搜索”。\n花瓣搜索的翻页和更换关键词复用访客会话，减少重复验证。"
 }
